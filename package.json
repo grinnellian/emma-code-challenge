@@ -1,0 +1,19 @@
+{
+  "name": "emma-code-challenge",
+  "version": "1.0.0",
+  "description": "Emma Inc. Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grinnellian/emma-code-challenge.git"
+  },
+  "author": "Ian Bone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grinnellian/emma-code-challenge/issues"
+  },
+  "homepage": "https://github.com/grinnellian/emma-code-challenge#readme"
+}
