@@ -13,7 +13,7 @@
     + `open out/index.html`
 
 ### Usage
-+ In a JS file, `var urlValidator = require([relative path]/lib/url-validator.js`
++ In a JS file, `var urlValidator = require([relative path]/lib/url-validator.js);`
 + `urlValidator.validateUrlsList([urls....], function(err, badUrls) { .... });`
 
 ### Bonus questions
