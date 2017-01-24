@@ -25,3 +25,5 @@
   
 + How might this function be exposed as an HTTP API to be used by a front-end application?
   + Pretty easily with an HTTP server library. I like Wreck; it's very easy to set up. In fact, I might just hook it up now.
+    + `npm run server` to run a server on localhost:3000
+    + Go ahead and try [this](http://localhost:3000/validateUrls?urls=%5B%22http%3A%2F%2Fwww.google.com%22%2C%20%22https%3A%2F%2Fwww.google.com%22%2C%20%22bla%22%2C%20%22http%3A%2F%2Fwww.google.com%2Fkjkj%22%5D)
