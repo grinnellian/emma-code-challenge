@@ -6,6 +6,7 @@
   "scripts": {
     "cov": "istanbul cover _mocha -- -R spec",
     "lint": "eslint lib/** test/**",
+    "server": "node server.js",
     "test": "mocha"
   },
   "repository": {
@@ -27,6 +28,7 @@
   },
   "dependencies": {
     "async": "^2.1.4",
+    "hapi": "^16.1.0",
     "lodash": "^4.17.4",
     "valid-url": "^1.0.9",
     "wreck": "^10.0.0"
